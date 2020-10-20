@@ -2,7 +2,6 @@
 
 
 
-# SLAM-Algorithms-in-Autonomous-Robotics
 This repository contains SLAM algorithms for state estimation based on sensor fusion in the Field of Autonomous Robotic Navigation.
 ## SLAM Algorithms for Drones and Ground Rovers based on Computer Vision:
 ### Monocular camera based SLAM:
